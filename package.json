@@ -1,5 +1,5 @@
 {
-  "name": "fattoken",
+  "name": "fatToken",
   "version": "1.0.0",
   "description": "FatToken governance tokens",
   "main": "truffle-config.js",
